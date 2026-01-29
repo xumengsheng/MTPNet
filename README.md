@@ -27,6 +27,8 @@ If you want to use Flare7K++ for training, please use:
 
 python basicsr/train.py -opt options/uformer_flare7kpp_baseline_option.yml
 
+Pre-trained Models: Pre-trained model files are stored in the experiments/ folder. Please load the corresponding models according to the training configuration.
+
 📊Evaluation Code
 
 You can run the evaluate.py
